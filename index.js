@@ -12,14 +12,8 @@ for (let i = 0; i < colorChoices.length; i++) {
 	});
 }
 
-//Katie's code below
-
-// let colorChoices = document.querySelectorAll(".color-choice");
-// for (let i = 0; i < colorChoices.length; i++) {
-//   colorChoices[i].addEventListener("click", function () {
-//     selectedColor = colorChoices[i].id;
-//   });
-// }
+//code below intends to simplify the colorChoices...
+//...code but will run the same
 
 //let palette = document.querySelector(".palette");
 //palette.addEventListener("click", function (e) {
